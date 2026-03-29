@@ -1,7 +1,7 @@
 # Diabetes Prediction Model – Machine Learning Comparison
 
 This project compares five supervised machine learning models for predicting diabetes using a Diabetes Dataset I got from Kaggle. 
-The goal was to evaluate which classifier performs best and support my prior work on a pre-diabetic monitoring device by analyzing model effectiveness.
+This machine‑learning analysis was completed independently to deepen my understanding of diabetes‑prediction algorithms and to better support the glucosense design team developing a pre‑diabetic monitoring device.
 
 # Models Compared
 - Logistic Regression  
@@ -27,5 +27,5 @@ The results include a Matplotlib bar chart comparing model performance across al
 
 # Key Findings
 - Models were benchmarked to determine strengths/weaknesses.
-- The evaluation results helped inform design considerations for early diabetes detection systems.
+- The evaluation results aided in forming design decisions for a prediabetic monitoring project on a design team
 - The project demonstrates complete ML workflow: preprocessing → training → evaluation → visualization.
