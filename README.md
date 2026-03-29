@@ -1,6 +1,6 @@
 # Diabetes Prediction Model – Machine Learning Comparison
 
-This project compares five supervised machine learning models for predicting diabetes using the Pima Indians Diabetes Dataset. 
+This project compares five supervised machine learning models for predicting diabetes using a Diabetes Dataset I got from Kaggle. 
 The goal was to evaluate which classifier performs best and support my prior work on a pre-diabetic monitoring device by analyzing model effectiveness.
 
 # Models Compared
