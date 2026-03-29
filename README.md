@@ -8,7 +8,7 @@ The entire workflow — from preprocessing to model training, evaluation, and vi
 ## 🔍 Project Motivation
 
 I completed this project **independently** as part of my own research to better understand how different machine‑learning models perform in early‑stage diabetes prediction.  
-This analysis was created **to support and complement the team's work** on a *prediabetic monitoring device* by providing data‑driven insight into algorithm selection.
+This analysis was created **to support and complement the then-glucosense team's work** on a *prediabetic monitoring device* by providing data‑driven insight into algorithm selection.
 
 
 
@@ -16,13 +16,13 @@ This analysis was created **to support and complement the team's work** on a *pr
 
 The Jupyter Notebook walks through the full ML pipeline:
 
-### ✅ 1. Data Preparation  
+## 1. Data Preparation  
 - Loading and inspecting the dataset  
 - Separating features and target labels  
 - Train/test split  
 - Scaling numerical features using `StandardScaler`
 
-### ✅ 2. Models Implemented  
+## 2. Models Implemented  
 Five classification models were trained and compared:
 
 - Logistic Regression  
@@ -31,7 +31,7 @@ Five classification models were trained and compared:
 - Support Vector Machine (SVM)  
 - Gradient Boosting Classifier  
 
-### ✅ 3. Evaluation Metrics  
+## 3. Evaluation Metrics  
 Each model was evaluated using:
 
 - **Accuracy** – overall correctness  
@@ -39,7 +39,7 @@ Each model was evaluated using:
 - **Recall** – ability to detect diabetic patients  
 - **F1 Score** – harmonic mean of precision and recall, ideal for medical prediction  
 
-### ✅ 4. Visualization  
+## 4. Visualization  
 A Matplotlib bar chart compares all models across the four evaluation metrics to highlight strengths and weaknesses.
 
 
