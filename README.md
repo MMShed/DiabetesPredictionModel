@@ -8,7 +8,6 @@ The entire workflow — from preprocessing to model training, evaluation, and vi
 ## 🔍 Project Motivation
 
 I completed this project **independently** as part of my own research to better understand how different machine‑learning models perform in early‑stage diabetes prediction.  
-This analysis was created **to support and complement the then-glucosense team's work** on a *prediabetic monitoring device* by providing data‑driven insight into algorithm selection.
 
 
 
